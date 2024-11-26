@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TheBasicAI.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Project\TheBasicAI\Intermediate\Build\Win64\x64\TheBasicAIEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"D:\Unreal Project\TheBasicAI\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheBasicAI\MyBTAIMoveTo.gen.cpp.obj"
+"D:\Unreal Project\TheBasicAI\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheBasicAI\MyBTAvoidingObstacles.gen.cpp.obj"
+"D:\Unreal Project\TheBasicAI\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheBasicAI\MyFuzzyLogicCharacter.gen.cpp.obj"
+"D:\Unreal Project\TheBasicAI\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheBasicAI\TheBasicAI.init.gen.cpp.obj"
+"D:\Unreal Project\TheBasicAI\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheBasicAI\MyBTAIMoveTo.cpp.obj"
+"D:\Unreal Project\TheBasicAI\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheBasicAI\MyBTAvoidingObstacles.cpp.obj"
+"D:\Unreal Project\TheBasicAI\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheBasicAI\MyFuzzyLogicCharacter.cpp.obj"
+"D:\Unreal Project\TheBasicAI\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheBasicAI\TheBasicAI.cpp.obj"
+"D:\Unreal Project\TheBasicAI\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheBasicAI\Default.rc2.res"
+/OUT:"D:\Unreal Project\TheBasicAI\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheBasicAI\UnrealEditor-TheBasicAI.lib"

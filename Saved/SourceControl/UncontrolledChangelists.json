@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Project/TheBasicAI/Content/Levels/L_Test.umap",
+				"D:/Unreal Project/TheBasicAI/Content/AI/AI_FuzzyLogicController.uasset",
+				"D:/Unreal Project/TheBasicAI/Content/AI/BBD_FuzzyLogic.uasset",
+				"D:/Unreal Project/TheBasicAI/Content/AI/BT_FuzzyLogic.uasset",
+				"D:/Unreal Project/TheBasicAI/Content/Blueprints/BP_MyFuzzyLogicCharacter.uasset",
+				"D:/Unreal Project/TheBasicAI/Content/AI/AI_BotController.uasset",
+				"D:/Unreal Project/TheBasicAI/Content/Blueprints/NewBlueprint.uasset",
+				"D:/Unreal Project/TheBasicAI/Content/Blueprints/BP_FuzzyLogicCharacter.uasset"
+			]
+		}
+	]
+}

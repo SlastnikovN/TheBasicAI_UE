@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Project\\TheBasicAI\\Source\\TheBasicAI\\TheBasicAI.Build.cs",
+		"D:\\Unreal Project\\TheBasicAI\\Source\\TheBasicAI.Target.cs",
+		"D:\\Unreal Project\\TheBasicAI\\Source\\TheBasicAIEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

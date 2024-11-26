@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TheBasicAI",
+			"Path": "..\\Source\\TheBasicAI.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TheBasicAIEditor",
+			"Path": "..\\Source\\TheBasicAIEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
