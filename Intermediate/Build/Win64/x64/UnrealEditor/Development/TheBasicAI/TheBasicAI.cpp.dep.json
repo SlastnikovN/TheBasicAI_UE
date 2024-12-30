@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\unreal project\\thebasicai\\source\\thebasicai\\thebasicai.cpp",
+        "Source": "d:\\unreal project\\thebasicai_ue\\source\\thebasicai\\thebasicai.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\unreal project\\thebasicai\\intermediate\\build\\win64\\x64\\thebasicaieditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "PCH": "d:\\unreal project\\thebasicai_ue\\intermediate\\build\\win64\\x64\\thebasicaieditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
         "Includes": [
-            "d:\\unreal project\\thebasicai\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thebasicai\\definitions.thebasicai.h",
-            "d:\\unreal project\\thebasicai\\source\\thebasicai\\thebasicai.h"
+            "d:\\unreal project\\thebasicai_ue\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thebasicai\\definitions.thebasicai.h",
+            "d:\\unreal project\\thebasicai_ue\\source\\thebasicai\\thebasicai.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

@@ -256,6 +256,9 @@
 /I "Developer\PhysicsUtilities\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\WidgetRegistration\UHT"
 /I "Developer\WidgetRegistration\Public"
+/I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AIModule\UHT"
+/I "Runtime\AIModule\Classes"
+/I "Runtime\AIModule\Public"
 /I "D:\Unreal Project\TheBasicAI\Intermediate\Build\Win64\UnrealEditor\Inc\TheBasicAI\UHT"
 /I "D:\Unreal Project\TheBasicAI\Source"
 /external:W0

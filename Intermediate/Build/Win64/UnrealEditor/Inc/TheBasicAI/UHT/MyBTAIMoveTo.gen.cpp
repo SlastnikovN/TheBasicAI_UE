@@ -90,15 +90,15 @@ void EmptyLinkFunctionForGeneratedCodeMyBTAIMoveTo() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UMyBTAIMoveTo);
 	UMyBTAIMoveTo::~UMyBTAIMoveTo() {}
-	struct Z_CompiledInDeferFile_FID_Unreal_Project_TheBasicAI_Source_TheBasicAI_MyBTAIMoveTo_h_Statics
+	struct Z_CompiledInDeferFile_FID_Unreal_Project_TheBasicAI_UE_Source_TheBasicAI_MyBTAIMoveTo_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Project_TheBasicAI_Source_TheBasicAI_MyBTAIMoveTo_h_Statics::ClassInfo[] = {
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Project_TheBasicAI_UE_Source_TheBasicAI_MyBTAIMoveTo_h_Statics::ClassInfo[] = {
 		{ Z_Construct_UClass_UMyBTAIMoveTo, UMyBTAIMoveTo::StaticClass, TEXT("UMyBTAIMoveTo"), &Z_Registration_Info_UClass_UMyBTAIMoveTo, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UMyBTAIMoveTo), 686565731U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Project_TheBasicAI_Source_TheBasicAI_MyBTAIMoveTo_h_3192868374(TEXT("/Script/TheBasicAI"),
-		Z_CompiledInDeferFile_FID_Unreal_Project_TheBasicAI_Source_TheBasicAI_MyBTAIMoveTo_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_Project_TheBasicAI_Source_TheBasicAI_MyBTAIMoveTo_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Project_TheBasicAI_UE_Source_TheBasicAI_MyBTAIMoveTo_h_3192868374(TEXT("/Script/TheBasicAI"),
+		Z_CompiledInDeferFile_FID_Unreal_Project_TheBasicAI_UE_Source_TheBasicAI_MyBTAIMoveTo_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_Project_TheBasicAI_UE_Source_TheBasicAI_MyBTAIMoveTo_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
